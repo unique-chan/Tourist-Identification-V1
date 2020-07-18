@@ -49,7 +49,7 @@ U = list(date_cnt[date_cnt[base_date] < day][user_id].unique())
 U2 = list(M2_2[M2_2['diff'] < '%d days' % day][user_id].unique()) 
 ... 중략 ...
 ~~~
-- 알고리즘을 실행합니다. 알고리즘은 관광객으로 추정된 버스 이용자의 USER_ID를 추출하여 U3 변수에 저장합니다.
+- 알고리즘을 실행합니다. 알고리즘은 **관광객으로 추정된 버스 이용자의 USER_ID를 추출**하여 **U3 변수**에 저장합니다.
 - U3 변수에 담긴 각 USER_ID에 대응하는 버스 이용자의 통행 기록을 분석하면 됩니다.
 
 ## Acknowledgement
