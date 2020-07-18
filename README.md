@@ -36,13 +36,15 @@ path = 'd:/tb_bus_user_usage'
 - 알고리즘의 세부적인 사항을 필요하면 수정합니다.
 ~~~
 # 예로, 연속으로 15일 미만이 아니라, 10일 미만인 버스 이용자를 필터링하고자 할 경우,
+# 관광객 연속 체류 기간
+# day = 10 
 ### (2) 이하 추출 ①
 ... 중략 ...
-U = list(date_cnt[date_cnt[base_date] < 10][user_id].unique())
+U = list(date_cnt[date_cnt[base_date] < day][user_id].unique())
 ... 중략 ...
 ### (3) 이하 추출 ②
 ... 중략 ...
-U2 = list(M2_2[M2_2['diff'] < '10 days'][user_id].unique()) 
+U2 = list(M2_2[M2_2['diff'] < '%d days' % day][user_id].unique()) 
 ... 중략 ...
 ~~~
 - 알고리즘을 실행합니다. 관광객으로 추정된 버스 이용자의 USER_ID를 추출하여 U3 변수에 저장합니다.
