@@ -55,12 +55,11 @@ U2 = list(M2_2[M2_2['diff'] < '%d days' % day][user_id].unique())
 ## Notice
 - 본 소스코드를 이용하여 수행한 연구 결과를 논문이나 보고서 등의 형태의 산출물로 게재할 경우, 그 산출물에 하단 레퍼런스를 반드시 인용해야 합니다.
 - 인용 포맷은 게재하는 논문이나 보고서의 규정을 준수하시면 됩니다.
-~~~
-# 국문 예시
+>[국문 예시]
 김예찬, 김철수, 김성백, "암호화된 대중교통 교통카드 빅데이터에서의 관광객 O-D 통행패턴 추출 알고리즘: 관광 도시, 제주에의 적용," 정보과학회 컴퓨팅의 실제 논문지, Vol. 26, No. 8, pp. 349-361, 2020.
-# 영문 예시
+
+>[영문 예시]
 Yechan Kim, Chul-Soo Kim, and Seong-Baeg Kim, "An Algorithm for Extracting Tourists’ O-D Patterns Using Encrypted Smart Card Data of Public Transportation: Application to Tourist City, Jeju," KIISE Transactions on Computing Practices, Vol. 26, No. 8, pp. 349-361, 2020. (in Korean)
-~~~
 
 ## Acknowledgement
 - 본 연구는 과학기술정보통신부 및 정보통신기술진흥센터의 SW중심대학 지원사업(No. 2018-0-01863)으로 수행되었습니다.
