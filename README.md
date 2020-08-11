@@ -1,4 +1,4 @@
-# Extracting Visitors Records From Jeju Bus Smart Card Data
+# Extracting Tourists' Records From Jeju Bus Smart Card Data
 **암호화된 대중교통 교통카드 빅데이터에서의 관광객 O-D 통행패턴 추출 알고리즘: 관광도시, 제주에의 적용 (대표저자: 김예찬)**
 
 ## Novelty
