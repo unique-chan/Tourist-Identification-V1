@@ -5,9 +5,9 @@
 - **암호화**된 대중교통 이용 데이터에서 어떻게 **관광객의 통행 기록**을 **추출**할 것인가?
 - 자세한 알고리즘은 [논문](https://doi.org/10.5626/KTCP.2020.26.8.349)을 참고하시기 바랍니다.
 - 저자
-  - 김예찬(yechankim@gm.gist.ac.kr), GIST 전기전자컴퓨터공학부 학생
-  - 김철수(kimcs@jejunu.ac.kr), 제주대학교 전산통계학과 교수
-  - 김성백(sbkim@jejunu.ac.kr), 제주대학교 컴퓨터교육과 교수
+  - 김예찬(yechankim@gm.gist.ac.kr), 지스트 전기전자컴퓨터공학부 
+  - 김철수(kimcs@jejunu.ac.kr), 제주대학교 전산통계학과
+  - 김성백(sbkim@jejunu.ac.kr), 제주대학교 컴퓨터교육과
 
 ## Prerequisites
 - Python 3.7.4
