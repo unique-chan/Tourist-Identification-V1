@@ -20,7 +20,7 @@
 user_id = 'bus_user_id'
 ~~~
 
-## Examples
+## Example
 - 하단 그림은 위 알고리즘을 이용하여 추출한 한 관광객 추정 버스 이용 승객(id: ‘055373583405cd9f943d40b199d52570332f3ac91e2f85b726e67da48284d2a8')의 이동 패턴을 시각화한 것입니다.
 ![tourist-od-pattern-visualization](README.png)
 
