@@ -37,7 +37,7 @@ tb_bus_user_usage_190603.csv
 ~~~
 - path 변수에 디렉토리의 주소를 삽입합니다.
 ~~~
-# 예로, d 드라이브 밑 tb_bus_user_usage 디렉토리에 분석할 데이터 파일(을 저장한 경우,
+# 예로, d 드라이브 밑 tb_bus_user_usage 디렉토리에 분석할 데이터 파일(들)을 저장한 경우,
 ### (1) 이하 전처리
 path = 'd:/tb_bus_user_usage'
 ~~~
