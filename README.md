@@ -1,4 +1,4 @@
-# Extracting Visitors Records From Jeju Bus Smart Card Data
+# Extracting Tourists' Records From Jeju Bus Smart Card Data
 **암호화된 대중교통 교통카드 빅데이터에서의 관광객 O-D 통행패턴 추출 알고리즘: 관광도시, 제주에의 적용 (대표저자: 김예찬)**
 
 ## Novelty
@@ -20,6 +20,12 @@
 user_id = 'bus_user_id'
 ~~~
 
+## Example
+- 하단 그림은 위 알고리즘을 이용하여 추출한 한 관광객 추정 버스 이용 승객(id: ‘055373583405cd9f943d40b199d52570332f3ac91e2f85b726e67da48284d2a8')의 이동 패턴을 시각화한 것입니다.
+![tourist-od-pattern-visualization1](README1.png)
+![tourist-od-pattern-visualization2](README2.png)
+![tourist-od-pattern-visualization3](README3.png)
+
 ## How to use
 - 임의로 디렉토리를 생성한 뒤, 다음과 같이 1개 이상의 제주 대중교통 버스 교통카드 데이터 파일(확장자: csv)을 배치합니다.
 - 참고로, 제주 빅데이터 센터는 일일단위로 버스 교통카드 이용 데이터 파일을 제공합니다.
@@ -33,7 +39,7 @@ tb_bus_user_usage_190603.csv
 ~~~
 - path 변수에 디렉토리의 주소를 삽입합니다.
 ~~~
-# 예로, d 드라이브 밑 tb_bus_user_usage 디렉토리에 분석할 데이터 파일(을 저장한 경우,
+# 예로, d 드라이브 밑 tb_bus_user_usage 디렉토리에 분석할 데이터 파일(들)을 저장한 경우,
 ### (1) 이하 전처리
 path = 'd:/tb_bus_user_usage'
 ~~~
