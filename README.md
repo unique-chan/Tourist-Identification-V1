@@ -12,6 +12,7 @@
 ## Prerequisites
 - Python 3.7.4
 - Pandas 0.25.1
+- tqdm
 
 ## Cautions
 - 이 알고리즘은 [제주 빅데이터 센터](https://bc.jejudatahub.net/main)에서 제공하는 제주 대중교통 버스 교통카드 빅데이터(tb_bus_user_usage, 버스 이용 데이터)에 최적화되어 있습니다.
