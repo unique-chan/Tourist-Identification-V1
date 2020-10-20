@@ -1,4 +1,4 @@
-# Algorithm for Extracting Tourists’ O-D Patterns Using Encrypted Smart Card Data of Jeju Public Transportation
+# Extracting Tourists’ O-D Patterns Using Encrypted Smart Card Data of Jeju Public Transportation
 **암호화된 대중교통 교통카드 빅데이터에서의 관광객 O-D 통행패턴 추출 알고리즘: 관광도시, 제주에의 적용**
 
 ## Novelty
