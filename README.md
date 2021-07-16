@@ -53,10 +53,10 @@ day = 10
 
 ## Cite this paper:
 
->[국문 예시]
+>[Korean]
 김예찬, 김철수, 김성백, "암호화된 대중교통 교통카드 빅데이터에서의 관광객 O-D 통행패턴 추출 알고리즘: 관광 도시, 제주에의 적용," 정보과학회 컴퓨팅의 실제 논문지, Vol. 26, No. 8, pp. 349-361, 2020.
 
->[영문 예시]
+>[English]
 Yechan Kim, Chul-Soo Kim, and Seong-Baeg Kim, "An Algorithm for Extracting Tourists’ O-D Patterns Using Encrypted Smart Card Data of Public Transportation: Application to Tourist City, Jeju," KIISE Transactions on Computing Practices, Vol. 26, No. 8, pp. 349-361, 2020. (in Korean)
 
 ## Acknowledgement
